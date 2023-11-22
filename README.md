@@ -1,6 +1,5 @@
 <p align="center">
   
-```
 ## 🛠 **My Tools:**
 
 <div align="center">
